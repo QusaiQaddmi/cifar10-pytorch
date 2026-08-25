@@ -1,0 +1,88 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="annotated-doc" />
+          <option value="annotated-types" />
+          <option value="anyio" />
+          <option value="blinker" />
+          <option value="certifi" />
+          <option value="charset-normalizer" />
+          <option value="click" />
+          <option value="colorama" />
+          <option value="dash" />
+          <option value="dash_mantine_components" />
+          <option value="fastapi" />
+          <option value="filelock" />
+          <option value="Flask" />
+          <option value="fsspec" />
+          <option value="greenlet" />
+          <option value="h11" />
+          <option value="httpcore" />
+          <option value="httpx" />
+          <option value="idna" />
+          <option value="importlib_metadata" />
+          <option value="itsdangerous" />
+          <option value="Jinja2" />
+          <option value="joblib" />
+          <option value="jsonpatch" />
+          <option value="jsonpointer" />
+          <option value="langchain" />
+          <option value="langchain-core" />
+          <option value="langgraph" />
+          <option value="langgraph-checkpoint" />
+          <option value="langgraph-prebuilt" />
+          <option value="langgraph-sdk" />
+          <option value="langsmith" />
+          <option value="MarkupSafe" />
+          <option value="mpmath" />
+          <option value="narwhals" />
+          <option value="neo4j" />
+          <option value="nest-asyncio" />
+          <option value="networkx" />
+          <option value="numpy" />
+          <option value="orjson" />
+          <option value="ormsgpack" />
+          <option value="packaging" />
+          <option value="pandas" />
+          <option value="plotly" />
+          <option value="pydantic" />
+          <option value="pydantic_core" />
+          <option value="python-dateutil" />
+          <option value="pytz" />
+          <option value="PyYAML" />
+          <option value="requests" />
+          <option value="requests-toolbelt" />
+          <option value="retrying" />
+          <option value="scikit-learn" />
+          <option value="scipy" />
+          <option value="setuptools" />
+          <option value="six" />
+          <option value="SQLAlchemy" />
+          <option value="starlette" />
+          <option value="sympy" />
+          <option value="tenacity" />
+          <option value="threadpoolctl" />
+          <option value="torch" />
+          <option value="typing-inspection" />
+          <option value="typing_extensions" />
+          <option value="tzdata" />
+          <option value="urllib3" />
+          <option value="uuid_utils" />
+          <option value="uvicorn" />
+          <option value="Werkzeug" />
+          <option value="xxhash" />
+          <option value="zipp" />
+          <option value="zstandard" />
+          <option value="tqdm" />
+          <option value="python-dotenv" />
+          <option value="passlib" />
+          <option value="python-jose" />
+          <option value="sqlite3" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
